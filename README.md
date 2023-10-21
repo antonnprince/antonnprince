@@ -73,9 +73,6 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/antonnprince/antonnprince/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="left">
