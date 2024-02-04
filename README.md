@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">I'm Anton Prince Oommen<br><br>- 🔭 I’m interested in Web and App development<br>- 📚 I'm currently learning Next.Js<br>- ⚡Turning coffee into code, one commit at a time ☕</h3>
+<h3 align="left">I'm Anton Prince Oommen<br><br>- 🔭 Let's talk about Web and App development<br>- 📚 I'm currently learning Next.Js<br>- ⚡coffee is my fuel to code, one commit at a time ☕</h3>
 
 ###
 
