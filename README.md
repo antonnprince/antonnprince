@@ -1,4 +1,3 @@
-<h3 align="center">Running on Caffeine to build projects</h3>
 
 - 🔭 I’m currently working on **Mobile App Development**
 
