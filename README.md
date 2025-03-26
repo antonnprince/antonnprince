@@ -5,9 +5,10 @@
 
 - 💬 Ask me about **web and app dev!**
 
-- 📫 Reach me at **https://www.linkedin.com/in/anton-prince-oommen/**
+- 📫 Reach me at <button><a href="https://www.linkedin.com/in/anton-prince-oommen/"> 🕶️ </a> </button>
 
-<h3 align="left">Connect with me:</h3>
+
+
 <p align="left">
 </p>
 
