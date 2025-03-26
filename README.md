@@ -6,8 +6,7 @@
 - 💬 Ask me about **web and app dev!**
 
 - 📫 Reach me at <button
-                  style={{background:'blue'}}
-                  ><a href="https://www.linkedin.com/in/anton-prince-oommen/"> 🕶️ </a> </button>
+                  ><a href="https://www.linkedin.com/in/anton-prince-oommen/">🕶️</a></button>
 
 
 
