@@ -1,5 +1,5 @@
 
-- 🔭 I’m currently working on **Mobile App Development**
+- 🔭 I’m currently working on **App Development**
 
 - 🌱 I’m currently learning **AI\ML**
 
